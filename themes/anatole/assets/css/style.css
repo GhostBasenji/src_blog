@@ -96,7 +96,7 @@ blockquote {
   line-height: 1;
   margin: 5px 8px 5px 0;
   padding: 5px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 pre {
@@ -485,7 +485,7 @@ aside {
 
 .post .post-footer .meta a {
   text-decoration: none;
-  color: var(--body-color);
+  /* color: var(--body-color); */
 }
 
 .post .post-footer .meta a:hover {
